@@ -1,0 +1,119 @@
+{
+  "danhSachKhoiThi": [
+      {
+          "id": "540ba010-2fff-46df-841d-705b2947fe4f",
+          "tenGoi": "Khối thi chuyên Tin",
+          "noiDungThi": "Khối thi cá nhân mỗi đội 4 thí sinh",
+          "vongSoLoai": true,
+          "thiTapThe": false,
+          "thiSangTao": true,
+          "maxDangKi": 4,
+          "maxThiSinh": null,
+          "tinhTrang": null,
+          "thoiGianTao": 0,
+          "thoiGianCapNhat": 0
+      },
+      {
+        "id": "540ba010-2fff-46df-841d-705b2947fe413f",
+        "tenGoi": "Khối thi AI",
+        "noiDungThi": "Khối thi cá nhân mỗi đội 5 thí sinh",
+        "vongSoLoai": true,
+        "thiTapThe": true,
+        "thiSangTao": false,
+        "maxDangKi": 4,
+        "maxThiSinh": null,
+        "tinhTrang": null,
+        "thoiGianTao": 0,
+        "thoiGianCapNhat": 0
+      },
+      {
+        "id": "540ba010-2fff-46df-841d-705b2947fe445",
+        "tenGoi": "Khối thi AI",
+        "noiDungThi": "Khối thi cá nhân mỗi đội 5 thí sinh",
+        "vongSoLoai": true,
+        "thiTapThe": true,
+        "thiSangTao": false,
+        "maxDangKi": 4,
+        "maxThiSinh": null,
+        "tinhTrang": null,
+        "thoiGianTao": 0,
+        "thoiGianCapNhat": 0
+      },
+      {
+        "id": "540ba010-2fff-46df-841d-705b29447fe4f",
+        "tenGoi": "Khối thi chuyên Tin",
+        "noiDungThi": "Khối thi cá nhân mỗi đội 4 thí sinh",
+        "vongSoLoai": true,
+        "thiTapThe": false,
+        "thiSangTao": true,
+        "maxDangKi": 4,
+        "maxThiSinh": null,
+        "tinhTrang": null,
+        "thoiGianTao": 0,
+        "thoiGianCapNhat": 0
+    }
+  ],
+  "danhSachGiaiCaNhan": [
+    {
+        "thuTuXepHang": null,
+        "tenThiSinh": "Phạm Tăng Huy",
+        "maThiSinh": "0acc7aa3-268c-4512-a97b-9c04242a2852",
+        "soBaoDanh": "A99314123123",
+        "tenDoanThi": "Đại học Bách khoa - Đại học Đà Nẵng",
+        "maDoanThi": "4007c02b-a924-461d-b4c9-1d1f9d5e60eb",
+        "hangGiaiThuong": "Hạng nhất",
+        "tenGiaiThuong": "Giải cá nhân",
+        "Nội dung thi": "Khối thi lập trình đối kháng OLP"
+    },
+    {
+        "thuTuXepHang": null,
+        "tenThiSinh": "Lê Anh  Đức",
+        "maThiSinh": "7a564952-24df-4876-a42a-50701b3b79db",
+        "soBaoDanh": "A99314123123",
+        "tenDoanThi": "Đại học Bách khoa Hà Nội",
+        "maDoanThi": "3a666efe-1e1f-453f-8810-b50164005793",
+        "hangGiaiThuong": "Giải nhất",
+        "tenGiaiThuong": "",
+        "Nội dung thi": "Khối thi lập trình đối kháng PROCON"
+    }
+  ],
+  "danhSachGiaiTapThe": [
+    {
+        "thuTuXepHang": null,
+        "tenDoiThi": "BKDN.Natural",
+        "maDoiThi": "6208d917-eb80-4e1c-b0b6-a76aa35ffd17",
+        "tenDoanThi": "Đại học Bách khoa - Đại học Đà Nẵng",
+        "maDoanThi": "c1085339-0f11-47c0-9e60-d233bda30be7",
+        "hangGiaiThuong": null,
+        "tenGiaiThuong": null,
+        "thiSinh": [
+         {
+           "id": 1,
+           "hoTen": "Nguyễn Văn A"
+         },
+         {
+            "id": 2,
+            "hoTen": "Nguyễn Văn B"
+          }
+        ],
+        "Nội dung thi": "Khối thi lập trình đối kháng OLP"
+    },
+    {
+        "thuTuXepHang": null,
+        "tenDoiThi": "BKDN.Integer",
+        "maDoiThi": "34bb65ff-64f0-4ef9-8138-00a662b10404",
+        "tenDoanThi": "Đại học Bách khoa - Đại học Đà Nẵng",
+        "maDoanThi": "c1085339-0f11-47c0-9e60-d233bda30be7",
+        "hangGiaiThuong": "Giải nhất",
+        "tenGiaiThuong": null,
+        "thiSinh": [
+          {
+            "id": 1,
+            "hoTen": "Nguyễn Văn B"
+          }
+        ],
+        "Nội dung thi": "Khối thi lập trình đối kháng PROCON"
+    }
+]
+
+}
